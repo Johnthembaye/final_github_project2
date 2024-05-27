@@ -2,4 +2,4 @@ A calculator that calculates simple interest given principal, annual rate of int
 
 Input: p, principal amount t, time period in years r, annual rate of interest Output simple interest = ptr
 
-2022 XYZ, Inc.
+2023 XYZ, Inc.
